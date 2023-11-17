@@ -16,9 +16,7 @@
 - 📄 Know about my experiences 
 
     During my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with 
-    version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator.](During 
-    my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with version 
-    control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator.)
+    version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
