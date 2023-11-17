@@ -5,7 +5,7 @@
 
     **Digital Games Development Engineering**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available in this Github and at 
 
     [https://duartemendonca.itch.io/](https://duartemendonca.itch.io/)
 
