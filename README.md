@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **www.linkedin.com/in/duarte-mendonça**
 
-- 📄 Know about my experiences [During my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator. A](During my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator. A)
+- 📄 Know about my experiences During my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator.](During my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/duarte-mendonça" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/duarte-mendonça" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/duarte-mendonça" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duarte-mendonça" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
