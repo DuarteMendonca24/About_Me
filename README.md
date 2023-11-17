@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Duarte Mendonça</h1>
 <h3 align="center">A passionate game developer from Portugal</h3>
 
-- 🌱 I’m currently studying **Digital Games Development Engineering**
+- 🌱 I’m currently studying 
+**Digital Games Development Engineering**
 
-- 👨‍💻 All of my projects are available at [https://duartemendonca.itch.io/](https://duartemendonca.itch.io/)
+- 👨‍💻 All of my projects are available at 
+[https://duartemendonca.itch.io/](https://duartemendonca.itch.io/)
 
-- 📫 How to reach me **www.linkedin.com/in/duarte-mendonça**
+- 📫 How to reach me 
+**www.linkedin.com/in/duarte-mendonça**
 
-- 📄 Know about my experiences During my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator.](During my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator.)
+- 📄 Know about my experiences 
+During my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator.](During my university journey, I've acquired proficiency in coding across multiple programming languages. Additionally, I've gained hands-on experience with version control using Git and have developed practical skills in utilizing tools such as Unity, Autodesk Maya , Adobe Photoshop and Adobe Illustrator.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
