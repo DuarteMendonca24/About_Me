@@ -1,5 +1,5 @@
 img {
-
   height: 500px;
   width: 500px;
+  max-width: 100%; /* Ensure the image is responsive within its container */
 }
