@@ -21,11 +21,12 @@ img {
 
 h1, h2, h3, h4, p, ul {
   margin: 0; /* Remove default margin for consistency */
+  margin-bottom: 50px;
 }
 
 /* Add padding or margin as needed for spacing */
 h4 {
   margin-top: 20px;
-  margin-bottom: 50px;
+  
 
 }
