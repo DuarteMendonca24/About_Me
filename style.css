@@ -1,22 +1,32 @@
-  img {
-    width: 640px;
-    height: 360px;
-    text-align: center;
-    
-  }
+body {
+  text-align: center;
+}
 
-  h1,h2,video,p,ul,h4,h3{
-    text-align: center;
-  }
+.container {
+  width: 80%; /* Adjust the width as needed */
+  margin: 0 auto; /* Center the container */
+}
 
-  .container {
-    position: relative;
-  }
-  
-  .topleft {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-    font-size: 18px;
-  }
-  
+img {
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+  display: block;
+  margin: 0 auto; /* Center the image within the container */
+}
+
+h1, h2, h3, h4, p, ul {
+  text-align: left;
+}
+
+/* Add padding or margin as needed for spacing */
+h4 {
+  margin-top: 20px;
+}
+
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto; /* Center the video with some margin */
+}
