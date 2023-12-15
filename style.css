@@ -1,5 +1,5 @@
 body {
-  text-align: left;
+  text-align: center;
 }
 
 .container {
@@ -9,6 +9,7 @@ body {
 
 .section-container {
   text-align: left; /* Align text to the left within the container */
+  padding-left: 20px; /* Add padding to the left */
 }
 
 img {
