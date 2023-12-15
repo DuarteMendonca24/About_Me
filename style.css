@@ -9,7 +9,7 @@ body {
 
 .section-container {
   text-align: left; /* Align text to the left within the container */
-  padding-left: 200px; /* Add padding to the left */
+  padding-left: 20px; /* Add padding to the left */
 }
 
 img {
