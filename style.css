@@ -7,27 +7,16 @@ body {
   margin: 0 auto; /* Center the container */
 }
 
-.image-container {
-  position: relative;
-  width: 640px;
-  height: 360px;
-  margin: 0 auto; /* Center the image within the container */
+.section-container {
+  text-align: left; /* Align text to the left within the container */
 }
 
 img {
   width: 640px;
   height: 360px;
-  object-fit: cover; /* Maintain aspect ratio and cover the container */
   opacity: 0.3;
-}
-
-.text-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding: 20px; /* Adjust padding as needed for spacing */
-  text-align: left;
-  color: white; /* Set text color to contrast with the image */
+  display: block;
+  margin: 0 auto; /* Center the image within the container */
 }
 
 h1, h2, h3, h4, p, ul {
