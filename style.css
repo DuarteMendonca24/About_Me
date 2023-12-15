@@ -15,7 +15,6 @@ body {
 img {
   width: 640px;
   height: 360px;
-  opacity: 0.3;
   display: block;
   margin: 0 auto; /* Center the image within the container */
 }
@@ -27,6 +26,6 @@ h1, h2, h3, h4, p, ul {
 /* Add padding or margin as needed for spacing */
 h4 {
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 
 }
