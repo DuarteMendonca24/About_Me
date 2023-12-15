@@ -8,8 +8,8 @@ body {
 }
 
 img {
-  width: 100%;
-  height: auto;
+  width: 640px;
+  height: 360px;
   opacity: 0.3;
   display: block;
   margin: 0 auto; /* Center the image within the container */
