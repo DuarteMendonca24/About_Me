@@ -23,12 +23,13 @@ h1, h2, h3, h4, p, video, ul {
 ul {
   list-style: none;
   padding: 0;
+  width: 100%;
   text-align: left; /* Align the entire list to the left */
 }
 
 ul li {
   margin-bottom: 10px; /* Add spacing between list items */
-  text-align: left; /* Align text to the left within each list item */
+  text-align: center; /* Align text to the center within each list item */
 }
 
 /* Style links */
