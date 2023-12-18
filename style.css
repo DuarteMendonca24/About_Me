@@ -16,13 +16,13 @@ body {
   padding-left: 20px; /* Add padding to the left */
 }
 
-img {
+/*img{
   width: 640px;
   height: 360px;
-  display: inline-block;
-  margin: 0 auto; /* Center the image within the container */
+  display: block;
+  margin: 0 auto; 
   border: 3px solid white;
-}
+} */
 
 h1, h2, h3, h4, p, ul {
   margin: 0; /* Remove default margin for consistency */
@@ -69,3 +69,5 @@ a.button {
 a.button:hover {
   background-color: #4d4d5c;
 }
+
+
