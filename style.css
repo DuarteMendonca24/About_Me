@@ -20,6 +20,7 @@ img {
   height: 360px;
   display: block;
   margin: 0 auto; /* Center the image within the container */
+  border: 3px solid white;
 }
 
 h1, h2, h3, h4, p, ul {
