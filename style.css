@@ -19,7 +19,7 @@ body {
 img {
   width: 640px;
   height: 360px;
-  display: block;
+  display: inline-block;
   margin: 0 auto; /* Center the image within the container */
   border: 3px solid white;
 }
