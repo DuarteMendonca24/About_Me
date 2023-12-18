@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(90deg, rgba(21,132,154,1) 44%, rgba(59,56,113,1) 100%, rgba(87,63,96,1) 100%);
+  background: linear-gradient(90deg, rgba(21,132,154,1) 0%, rgba(59,56,113,1) 0%, rgba(87,63,96,1) 100%);
   color:white;
 }
 
