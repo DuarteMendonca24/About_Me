@@ -45,3 +45,18 @@ a{
 video{
   border: 3px solid white;
 }
+
+a.button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #6d6d80;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+a.button:hover {
+  background-color: #4d4d5c;
+}
